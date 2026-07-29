@@ -6,6 +6,9 @@
 > Package root: `com.auca.library`
 
 ---
+to day mostly we focus on setting up fings like relation ships, the package we will need and other related thing and  setting up pom.xml 
+so it will be easly to as
+for analyses and work on project and database and tables we will need there 
 
 ## Project Overview
 
