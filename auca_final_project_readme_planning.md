@@ -1,6 +1,6 @@
-## (AYA MAKURU ARAKENEWE CYANE NKUMU DEVELOPER)
+# (AYA MAKURU ARAKENEWE CYANE NKUMU DEVELOPER)
 
-# AUCA Library Management System — Final Project (Summer Semester 2025)
+## AUCA Library Management System — Final Project (Summer Semester 2025)
 
 > Course: Software Testing and Techniques
 > Stack: Java 21 · Maven · Hibernate ORM 6.5 · PostgreSQL · JUnit 4
